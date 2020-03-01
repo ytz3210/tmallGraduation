@@ -15,7 +15,7 @@
     "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.19.2",
     "browserslist": "^4.9.0",
     "caniuse-lite": "^1.0.30001030",
     "element-ui": "2.11.0",
